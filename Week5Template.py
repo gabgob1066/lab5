@@ -9,9 +9,11 @@
 -1
 >>> doomsday(1756)
 -1
->>> type(doomsday(2010))
-<type 'int'>
 """
+
+# Removed for irrelivence
+#>>> type(doomsday(2010))
+#<type 'int'>
 
 # *** DO NOT CHANGE CODE ABOVE THIS LINE ***
 
