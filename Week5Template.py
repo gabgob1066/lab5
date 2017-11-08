@@ -11,9 +11,8 @@
 -1
 """
 
-# Removed for irrelivence
-#>>> type(doomsday(2010))
-#<type 'int'>
+>>> type(doomsday(2010))
+<class 'int'>
 
 # *** DO NOT CHANGE CODE ABOVE THIS LINE ***
 
