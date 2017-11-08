@@ -9,12 +9,14 @@
 -1
 >>> doomsday(1756)
 -1
-"""
 
 >>> type(doomsday(2010))
 <class 'int'>
 
+"""
+
 # *** DO NOT CHANGE CODE ABOVE THIS LINE ***
+
 
 def doomsday(y):
     if y in range(1800,1900):
